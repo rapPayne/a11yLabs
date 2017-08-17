@@ -1,0 +1,30 @@
+      td {
+        color: #000000;
+        text-decoration: none;
+        font: 15px/17px "Times New Roman", Times, serif;
+      }
+      #main .headline {
+        color: #41545d;
+        font: 24px verdana;
+        font-family: impact;
+        text-decoration: none;
+        padding: 12 0 6 0;
+        margin: 0;
+      }
+      #main div {
+        padding: 10px
+      }
+      #main a {
+        color: #226C8E;
+        text-decoration: none;
+      }
+      #main a:hover,
+      a:active,
+      a:focused,
+      a:visited {
+        color: #226C8E;
+        text-decoration: none;
+      }
+      #data td {
+        border: none;
+      }

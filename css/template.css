@@ -1,0 +1,15 @@
+      #main * {
+        color: #000000;
+        font: normal 15px "Times New Roman", Times, serif;
+        text-decoration: none;
+      }
+      #main p {
+        margin: 6px 0;
+      }
+      #main .headline {
+        margin-top: 0px;
+        color: #41545d;
+        font: 24px verdana;
+        font-family: impact;
+        text-decoration: none;
+      }

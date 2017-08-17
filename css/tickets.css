@@ -1,0 +1,22 @@
+      td {
+        color: #000000;
+        text-decoration: none;
+        font: 15px/15px "Times New Roman", Times, serif;
+      }
+      #main .headline {
+        color: #41545d;
+        font: 24px verdana;
+        font-family: impact;
+        text-decoration: none;
+      }
+      .prices td {
+        font: 12px/12px "Times New Roman", Times, serif;
+      }
+      #terms {
+        font-family: "Times New Roman", Times, serif;
+        text-transform: uppercase;
+        font-size: 13px;
+        line-height: 13px;
+        padding: 0;
+        margin: 0;
+      }
